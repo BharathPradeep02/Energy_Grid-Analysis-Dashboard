@@ -10,3 +10,23 @@ Electricity providers must continuously monitor:
  Fault occurrences in the grid
  Monthly and daily consumption trends
  This dashboard helps stakeholders quickly identify patterns and make informed decisions.
+Dashboard Insights :
+ Power Consumption Analysis
+ Monthly Total Power Consumption trend
+ Daily Average Consumption pattern tracking
+ Comparison of Predicted vs Current Load
+ Renewable Energy Monitoring
+ Solar vs Wind energy contribution
+ Total renewable energy generated
+ Fault Monitoring
+ Transformer fault vs Overload condition distribution
+ Helps in preventive maintenance planning
+ Grid Performance KPIs
+ Total Voltage
+ Average Power Factor
+ Location & Year filters for interactive analysis
+
+Tools & Technologies :
+ Power BI Desktop → Data visualization & dashboard creation
+ Public Energy Dataset → Data source
+ Data Cleaning & Modeling → Power Query & DAX
